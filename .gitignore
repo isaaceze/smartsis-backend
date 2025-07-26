@@ -3,3 +3,4 @@ __pycache__/
 .env.template
 start.sh
 tsconfig.json
+package.json
